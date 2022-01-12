@@ -27,7 +27,7 @@ class Patient
     end 
 
    
-
+    class Cat 
    
 
 end 
